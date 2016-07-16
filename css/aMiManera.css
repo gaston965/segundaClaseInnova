@@ -1,11 +1,53 @@
+
+*{
+  padding:0px; 
+  margin:0px;
+
+
+ }
 .menu_item
 {
     list-style: none;
        display: inline-block;
      
-        margin: 0px 25px 0px 25 25px;
+       
 
       
 }
 
-nav{float: right;}
+body
+{
+
+	background-image: url("../images/lala.jpg");
+	background-size:100%;
+	background-repeat: no-repeat;
+	background-attachment: inherit;
+    
+}
+
+nav
+{   
+	 margin-left: 400px;
+     
+}
+
+#titulo_seccion_inicio
+{ 
+  
+  
+  position: relative;
+  top: 400px; 
+  left: 350px;
+  text-align: center;
+  font-family: 'Lato',sans-serif;
+  color:#cfcfcf;
+
+ 
+}
+
+#amarillo
+{
+
+	color: yellow;
+  
+}
