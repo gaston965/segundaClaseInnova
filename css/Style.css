@@ -26,7 +26,7 @@ nav
 .menu_item
 {     list-style: none;
        display: inline-block;
-       
+     
         margin: 0px 25px 0px 25 25px;}
 
 
@@ -49,7 +49,7 @@ nav
  
 }
 
-#asmarillo
+#amarillo
 {
 
 	color: yellow;
@@ -62,7 +62,7 @@ nav
 {
         
 	background-image: url("../images/lala.jpg");
-	
+	  
 	 height: 912px ;
 	 background-attachment: fixed;
 	
@@ -109,6 +109,8 @@ nav
 
 }
 
+body{width: 100%;}
+
 
 
 
@@ -137,5 +139,13 @@ nav
    list-style: circle;
    padding-left: 60px;
    color:#333;	
+
+}
+
+#contenedorPrincipal
+{
+   width: 100%;
+   height: 100%;
+
 
 }

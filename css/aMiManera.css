@@ -1,0 +1,11 @@
+.menu_item
+{
+    list-style: none;
+       display: inline-block;
+     
+        margin: 0px 25px 0px 25 25px;
+
+      
+}
+
+nav{float: right;}
